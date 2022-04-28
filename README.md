@@ -1,2 +1,2 @@
-# Piblii-translation-test
+# Publii-translation-test
 Publii app: localization for UI and/or Theme
