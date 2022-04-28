@@ -1,2 +1,2 @@
 # Piblii-translation-test
-Localization for UI and/or Theme
+Publii app: localization for UI and/or Theme
