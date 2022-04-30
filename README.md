@@ -1,2 +1,2 @@
 # Publii translation / localization
-For UI / Themes (test)
+UI / Themes (testing)
