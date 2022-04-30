@@ -1,0 +1,76 @@
+{
+	"partials": {
+		
+		"footer": {
+			"backToTop": "Вгору"
+		},
+
+		"newsletter": {
+			"title": "Приєднуйтесь до нашого списку розсилання електронної пошти, щоб отримувати останні оновлення",
+			"description": "Приєднуйтесь до нашого списку передплатників, щоб отримувати останні новини, оновлення та спеціальні пропозиції прямо на вашу поштову скриньку.",
+			"emailAddress": "email-адреси..."
+		},
+		
+		"menu": {
+			"menu": "Меню"
+		},
+
+		"pagination": {
+			"prev": "Попередній",
+			"next": "Наступний",
+			"viewMore": "Ще більше"
+		},
+
+		"shareButtons": {
+			"shareWith": "Share with",
+			"shareWithFacebook": "Facebook",
+			"shareWithTwitter": "Twitter",
+			"shareWithPinterest": "Pinterest",
+			"shareWithMix": "Mix",
+			"shareWithLinkedIn": "LinkedIn",
+			"shareWithBuffer": "Buffer",
+			"shareWithWhatsApp": "WhatsApp",
+			"shareWithPocket": "Pocket"
+		}
+	
+	},
+
+	"common": {
+		"home": "Головна",
+		"featured": "Обрано",
+		"recentlyAdded": "Нещодавно додано",
+		"published": "Опубліковано",
+		"publishedBy": "@",
+		"updated": "Оновлено"
+	},
+
+	"post": {
+		"relatedPosts": "Пов'язані дописи",
+		"updatedOn": "Оновлено",
+		"postedIn": "Опубліковано"
+	},
+
+	"tags": {
+		"tagsPageTitle": "Теги",
+		"description": "Колекція всіх %s тегів",
+		"post": {
+			"1": "Допис",
+			"default": "Дописи"
+	   }
+	},
+
+	"author": {
+			"visitWebsite": "Перейти до вебсайту",
+			"authorOf": "Автор %s",
+			"post": {
+				"1": "допис",
+				"default": "дописи"
+			}
+	},
+	 
+	"error": {
+		"404": "404",
+		"message": "Сторінка, яку ви шукали, здається, була переміщена, видалена або взагалі не існує. Ви можете повернутися туди, де ви були, або перейти прямо на домашню сторінку.",
+		"button": "До дому"
+	}
+}

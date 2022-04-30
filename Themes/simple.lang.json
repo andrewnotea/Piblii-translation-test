@@ -1,0 +1,62 @@
+{
+    "partials": {
+
+        "menu": {
+            "label": "Меню"
+        },
+
+        "pagination": {
+            "prev": "Попередній",
+            "next": "Наступний"
+        },
+
+        "shareButtons": {
+            "shareWithFacebook": "Facebook",
+            "shareWithTwitter": "Twitter",
+            "shareWithPinterest": "Pinterest",
+            "shareWithMix": "Mix",
+            "shareWithLinkedIn": "LinkedIn",
+            "shareWithBuffer": "Buffer",
+            "shareWithWhatsApp": "WhatsApp"
+        },
+
+        "footer": {
+            "backToTop": "Вгору"
+        }
+    },
+
+    "post": {
+        "publishedBy": "Опубліковано",
+        "relatedPosts": "Ви також повинні прочитати:",
+        "readMore": "Продовжити читання...",
+        "lastUpdatedDate": "Ця стаття була оновлена",
+        "comments": "Коментарі",
+        "previousPost": "Попередній",
+        "nextPost": "Наступний"
+    },
+
+    "tags": {
+        "tagsPageTitle": "Теги",
+        "description": "Колекція всіх тегів"
+    },
+
+    "author": {
+        "visitWebsite": "Відвідати вебсайт"
+    },
+
+    "error": {
+        "404": "404",
+        "message-1": "Сторінку не знайдено",
+        "message-2": "Сторінка, яку ви шукали, здається, була переміщена, видалена або взагалі не існує. Ви можете повернутися туди, де були, або перейти прямо на домашню сторінку.",
+        "button": "До дому"
+
+    },
+
+    "search": {
+        "placeholder": "пошук...",
+        "search": "Пошук",
+        "close": "Закрити",
+        "title": "Пошук",
+        "submit": "Шукати"
+    }
+}
