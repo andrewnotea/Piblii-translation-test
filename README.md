@@ -1,2 +1,2 @@
-# Publii UI/Themes translation/localization
-Test
+# Publii translation/localization
+UI/Themes
